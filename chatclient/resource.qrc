@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>plane.ico</file>
+        <file>user.ico</file>
+    </qresource>
+</RCC>
