@@ -1,12 +1,21 @@
 # Chat
+QT Chat
 
-Hi!
-
-This is a brand new chat,
+## About
+This is our brand new chat,
 to set up a server you need to start the application and that's it!
+Project is made only using QT.
+This project is has GUI.
 
-To connect to a server you have to log in / sign in, you need a server ip and your name,
-to protect your account we've made that each user has its one and only ip,
-so if you want to lo gin to someone else's account, well that's impossible.
+## Dependencies
+* qtcore
+* qtgui
+* qtwidgets
 
-Enjoy!
+## Contact
+Question or suggestions are welcome!
+Please use the GitHub issue tracking to report suggestions or issues.
+Email me a.kovrigin0@gmail.com and visit my site http://alex.unaux.com
+
+## License
+This software is provided under the [UNLICENSE](http://unlicense.org/)
